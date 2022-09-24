@@ -26,6 +26,6 @@ Screenshot of the project
 
 ![project 2](https://user-images.githubusercontent.com/110339523/192118362-58167347-dc4f-4fa1-a09c-320fc20b5016.jpg)
 
-![project img 1](https://user-images.githubusercontent.com/110339523/192118367-453b9556-be62-421f-913a-2f6144fcf49a.jpg)
+![project 3](https://user-images.githubusercontent.com/110339523/192118462-11b7a53b-ef0f-4f27-8681-5d04fd53d673.jpg)
 
 
